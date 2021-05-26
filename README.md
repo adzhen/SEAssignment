@@ -12,10 +12,10 @@ Setup Mysql DB
 
 Smple User data from DBScript.sql
 
-username - 1000
-password - password2
+- username - 1000
+- password - password2
 
 or
 
-username - 1001
-password - password1
+- username - 1001
+- password - password1
