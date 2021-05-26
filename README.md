@@ -10,7 +10,7 @@ Setup Mysql DB
 
 - Noted: the username & password need to Change on Api webconfig under [DBConnection] configuration key.
 
-Smple User data from DBScript.sql
+Smple User data from DBScript.sql (Password being Hashed)
 
 - username - 1000
 - password - password2
